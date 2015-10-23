@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='utf-8'?>
+<root>
+<item>
+<id>1687895285</id>
+<link>http://www.newsru.com/finance/12aug2015/dllrzeuro.html</link>
+<src_uid>30006</src_uid>
+<publication_time>1439364540</publication_time>
+<zterm>nwstty</zterm>
+<category><![CDATA[Экономика]]></category>
+<title><![CDATA[Доллар и евро взлетели до максимума за полгода]]></title>
+<text><![CDATA[Рубль упал к доллару и евро при открытии торгов на Московской бирже в среду, доллар достиг 65 рублей, евро взял отметку 72 рубля на снижении мировых цен нефти и девальвации юаня. Нефть Brent упала в цене до 49 долларов, обновив минимум с января.]]></text>
+<tz_snm>NEWSru.com</tz_snm>
+<rub_msk>4</rub_msk>
+<k_vector>евро доллар взлететь юань нефть</k_vector>
+<k_weight>1.75 1.72 1.13 0.91 0.90</k_weight>
+</item>
+<item>
+<id>2747480347</id>
+<link>http://www.newsru.com/world/12aug2015/pemex.html</link>
+<src_uid>30006</src_uid>
+<publication_time>1439364420</publication_time>
+<zterm>nwstty</zterm>
+<category><![CDATA[В мире]]></category>
+<title><![CDATA[На севере Мексики взорвался газопровод, погибли пять человек]]></title>
+<text><![CDATA[Пожар случился во время работ, которые выполняла рядом с газопроводом частная организация, не связанная с нефтедобывающей компанией Pemex, владеющей трубой. Место аварии было изолировано.]]></text>
+<tz_snm>NEWSru.com</tz_snm>
+<rub_msk>16</rub_msk>
+<reg_cnt>67</reg_cnt>
+<k_vector>газопровод мексика pemex север взорваться</k_vector>
+<k_weight>1.77 1.28 1.00 0.79 0.76</k_weight>
+</item>
+<item>
+<id>230799876</id>
+<link>http://www.newsru.com/russia/12aug2015/kursk.html</link>
+<src_uid>30006</src_uid>
+<publication_time>1439363940</publication_time>
+<zterm>nwstty</zterm>
+<category><![CDATA[В России]]></category>
+<title><![CDATA[В России почтят память моряков спустя 15 лет после гибели атомной подлодки "Курск"]]></title>
+<text><![CDATA[Памятные мероприятия пройдут во многих российских городах. К могилам подводников возложат цветы, а на кораблях спустят флаги в память о погибших. В годовщину гибели в водах Баренцева моря атомной субмарины "Курск" о трагедии вспомнят в Видяеве и Севастополе, Нижнем Новгороде и Санкт-Петербурге, Мурманске и Калининграде.]]></text>
+<tz_snm>NEWSru.com</tz_snm>
+<rub_msk>8</rub_msk>
+<reg_cnt>188</reg_cnt>
+<reg_sub>57</reg_sub>
+<k_vector>курск гибель подлодка атомный память баренцев видяев моряк</k_vector>
+<k_weight>3.48 1.52 1.50 1.41 1.35 1.30 1.30 1.29</k_weight>
+</item>
+</root>
+

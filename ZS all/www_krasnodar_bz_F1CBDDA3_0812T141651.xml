@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<root>
+<item>
+<id>4059583359</id>
+<link><![CDATA[http://www.tia-ostrova.ru/?div=news&id=322824]]></link>
+<src_uid>10487</src_uid>
+<publication_time>1439341004</publication_time>
+<zterm>nwstty</zterm>
+<title><![CDATA[На Дальнем Востоке ликвидировали 5 из 16 лесных пожаров]]></title>
+<text><![CDATA[В минувшие сутки на территории Дальнего Востока боролись с шестнадцатью лесными пожарами.]]></text>
+<tz_snm>ТИА Острова</tz_snm>
+<rub_msk>1</rub_msk>
+<k_vector>восток дальний пожар лесной</k_vector>
+<k_weight>1.61 1.39 1.29 1.14</k_weight>
+</item>
+<item>
+<id>3459437823</id>
+<link><![CDATA[http://www.tia-ostrova.ru/?div=news&id=322820]]></link>
+<src_uid>10487</src_uid>
+<publication_time>1439340185</publication_time>
+<zterm>nwstty</zterm>
+<title><![CDATA[В Южно-Сахалинске открылась выставка прикладного художественного творчества инвалидов]]></title>
+<text><![CDATA[Сегодня в Сахалинском областном краеведческом музее открылась выставка работ изобразительного искусства, художественной фотографии и прикладного художественного творчества инвалидов «Поверь в себя!».]]></text>
+<tz_snm>ТИА Острова</tz_snm>
+<rub_msk>1</rub_msk>
+<reg_cnt>188</reg_cnt>
+<reg_sub>145</reg_sub>
+<k_vector>прикладной инвалид художественный творчество южно-сахалинск выставка открыться</k_vector>
+<k_weight>1.85 1.80 1.71 1.65 1.65 1.44 1.15</k_weight>
+</item>
+</root>
+

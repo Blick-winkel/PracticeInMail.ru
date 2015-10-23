@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<root>
+<item>
+<id>3019495550</id>
+<link>http://kapital-rus.ru/news/v_podmoskovnom_detskom_lagere_otravilis_52_cheloveka/</link>
+<src_uid>10485</src_uid>
+<publication_time>1439362909</publication_time>
+<zterm>nwstty</zterm>
+<title><![CDATA[В подмосковном детском лагере отравились 52 человека]]></title>
+<text><![CDATA[В селе Новоселки (Подмосковье), в лагере, который расположился на спортивной базе «Чехов», произошло отравление более 50 человек, пишет Газета.ру со ссылкой на РИА Новости. Как сообщили в региональном ГУ СК, «предварительно установлено, что в период с 8 по 11 августа зафиксированы случаи обращения 46 детей и 6 взрослых в медпункт, расположенный на территории базы, с жалобами на боли в животе, рвоту и слабость».]]></text>
+<tz_snm>Капитал страны</tz_snm>
+<rub_msk>1</rub_msk>
+<k_vector>лагер лагерь новоселка отравиться чехов медпункт рвота</k_vector>
+<k_weight>2.00 1.50 1.30 1.15 1.14 1.00 1.00</k_weight>
+</item>
+<item>
+<id>2311327792</id>
+<link>http://kapital-rus.ru/news/vpervye_s_fevralya_evro_prevysil_72_rublya_dollar__vyshe_65_rublei/</link>
+<src_uid>10485</src_uid>
+<publication_time>1439361951</publication_time>
+<zterm>nwstty</zterm>
+<title><![CDATA[Впервые с февраля евро превысил 72 рубля, доллар – выше 65 рублей]]></title>
+<text><![CDATA[Во время торгов на Московской бирже курс евро поднялся до72,07 рубля (+ 1,02 руб.), доллар – до 65,03 рубля (+ 75 копеек), сообщает ТАСС. Сообщается, что это произошло впервые с февраля.]]></text>
+<tz_snm>Капитал страны</tz_snm>
+<rub_msk>1</rub_msk>
+<k_vector>евро доллар рубль</k_vector>
+<k_weight>1.16 1.14 0.89</k_weight>
+</item>
+</root>
+

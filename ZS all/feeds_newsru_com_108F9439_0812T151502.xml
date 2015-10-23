@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<root>
+<item>
+<id>578790528</id>
+<link>http://www.pravda.com.ua/rus/news/2015/08/12/7077651/</link>
+<src_uid>10104</src_uid>
+<publication_time>1439394108</publication_time>
+<zterm>nwstty</zterm>
+<category><![CDATA[Новости]]></category>
+<title><![CDATA[У Маркова был российский паспорт, он ждет суда]]></title>
+<text><![CDATA[Задержанный в Италии экс-нардеп Игорь Марков содержится в окружной тюрьме Италии и ждет суда.]]></text>
+<tz_snm>Украинская правда</tz_snm>
+<rub_msk>1</rub_msk>
+<reg_cnt>45</reg_cnt>
+<k_vector>марков италия суд экс-нардеп ждать</k_vector>
+<k_weight>3.90 1.16 1.06 1.00 0.94</k_weight>
+</item>
+<item>
+<id>1834753614</id>
+<link>http://www.pravda.com.ua/rus/news/2015/08/12/7077650/</link>
+<src_uid>10104</src_uid>
+<publication_time>1439393978</publication_time>
+<zterm>nwstty</zterm>
+<category><![CDATA[Новости]]></category>
+<title><![CDATA[Кабмин опубликовал распоряжение о новых санкциях против России]]></title>
+<text><![CDATA[Кабинет министров Украины опубликовал распоряжение №808 "О расширении предложений по применению персональных специальных экономических и других ограничительных мер" для ряда физических и юридических лиц Российской Федерации.]]></text>
+<tz_snm>Украинская правда</tz_snm>
+<rub_msk>1</rub_msk>
+<reg_cnt>188</reg_cnt>
+<k_vector>распоряжение опубликовать кабмин</k_vector>
+<k_weight>1.47 1.12 1.06</k_weight>
+</item>
+</root>
+
