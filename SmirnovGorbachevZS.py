@@ -6,7 +6,6 @@ def files():
     i = input('Введите название команды:')
     ZS = []
     TP = 0
-    FNpre = 0
     long1 = 0
     long2 = 0
 
@@ -51,8 +50,7 @@ def files():
                         long2 -= 1
 
                     if jaccard_similarity(i, ii) > 0.1 and jaccard_similarity(i, ii) < 0.6:
-                        FNpre += 1
-                        long1 -= 1
+                        long2 -= 1
 
             f1.close()
             f2.close()
